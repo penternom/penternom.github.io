@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://penternom.github.io/sitemap.html.gz
+Sitemap: https://penternom.github.io/app/sitemap.html.gz
+Sitemap: https://penternom.github.io/assets/sitemap.html.gz
+Sitemap: https://penternom.github.io/css/sitemap.html.gz
+Sitemap: https://penternom.github.io/includes/sitemap.html.gz
+Sitemap: https://penternom.github.io/item/sitemap.html.gz
+Sitemap: https://penternom.github.io/src/sitemap.html.gz
